@@ -6,6 +6,7 @@ import (
 	"net/http"
 	"testing"
 
+	daoApi "api/dao_service"
 	_ "app-service/status-service/routers"
 	"model"
 )
